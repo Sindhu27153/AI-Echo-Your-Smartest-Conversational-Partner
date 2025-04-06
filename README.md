@@ -118,7 +118,7 @@ This project is licensed under the MIT License.
 
 📞 Contact
 Developed by: Sindhuja Seenivasan
-Email: sindhujaakp@example.com
+Email: sindhujaakp@gmail.com
 LinkedIn: https://www.linkedin.com/in/sindhuja-s-a3974593/
 
 
